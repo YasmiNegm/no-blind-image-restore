@@ -1,0 +1,14 @@
+﻿  Source.cpp
+c:\users\snaza\desktop\примерыработ\not_blind_restore\repair\repair\source.cpp(17): warning C4091: typedef : пропускается слева от "RGB", когда ни одна переменная не объявлена
+c:\users\snaza\desktop\примерыработ\not_blind_restore\repair\repair\source.cpp(23): warning C4091: typedef : пропускается слева от "cRGB", когда ни одна переменная не объявлена
+c:\users\snaza\desktop\примерыработ\not_blind_restore\repair\repair\source.cpp(112): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\snaza\desktop\примерыработ\not_blind_restore\repair\repair\source.cpp(313): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\snaza\desktop\примерыработ\not_blind_restore\repair\repair\source.cpp(315): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\snaza\desktop\примерыработ\not_blind_restore\repair\repair\source.cpp(327): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\snaza\desktop\примерыработ\not_blind_restore\repair\repair\source.cpp(366): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\snaza\desktop\примерыработ\not_blind_restore\repair\repair\source.cpp(367): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\snaza\desktop\примерыработ\not_blind_restore\repair\repair\source.cpp(372): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода
+  All 200 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Repair.vcxproj -> C:\Users\snaza\Desktop\ПримерыРабот\Not_blind_restore\Repair\Release\Repair.exe

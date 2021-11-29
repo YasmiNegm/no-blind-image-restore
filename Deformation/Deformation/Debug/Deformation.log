@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\snaza\desktop\progsvkr\deformation\deformation\source.cpp(16): warning C4091: typedef : пропускается слева от "RGB", когда ни одна переменная не объявлена
+c:\users\snaza\desktop\progsvkr\deformation\deformation\source.cpp(22): warning C4091: typedef : пропускается слева от "cRGB", когда ни одна переменная не объявлена
+c:\users\snaza\desktop\progsvkr\deformation\deformation\source.cpp(82): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\snaza\desktop\progsvkr\deformation\deformation\source.cpp(287): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\snaza\desktop\progsvkr\deformation\deformation\source.cpp(289): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\snaza\desktop\progsvkr\deformation\deformation\source.cpp(302): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\snaza\desktop\progsvkr\deformation\deformation\source.cpp(343): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\snaza\desktop\progsvkr\deformation\deformation\source.cpp(344): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\snaza\desktop\progsvkr\deformation\deformation\source.cpp(349): warning C4018: <: несоответствие типов со знаком и без знака
+  Deformation.vcxproj -> C:\Users\snaza\Desktop\ProgsVKR\Deformation\Debug\Deformation.exe
